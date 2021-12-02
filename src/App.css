@@ -1,0 +1,8 @@
+.app {
+  font-size: large;
+  line-height: 2px;
+  border-bottom: 1px solid blue;
+  display: flex;
+  flex-wrap: wrap;
+  background-color: rgb(44, 44, 44);
+}
